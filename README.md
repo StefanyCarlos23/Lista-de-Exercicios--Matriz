@@ -1,2 +1,2 @@
 # Lista de Exercicios  Matriz
- Códicos de lista de Exercícios de Matriz
+ Códicos da lista de Exercícios de Matriz
